@@ -1,1 +1,1 @@
-# chatGpt-integration-with-node.js-and-vue.js
+# chatGpt-integration-with-node.js-and-vue
